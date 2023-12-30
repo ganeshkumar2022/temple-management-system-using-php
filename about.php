@@ -62,7 +62,7 @@ include("includes/header.php");
 </div>
 
 <div class="container">
-    <h3 class="text-center myhead">About us</h3>
+    <h3 class="text-center myhead">About us page</h3>
     <div class="row">
         <div class="col-md-12">
             <p class="p-style text-secondary text-center">

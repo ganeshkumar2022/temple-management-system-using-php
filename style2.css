@@ -1,0 +1,77 @@
+nav ul li a
+{
+  font-family: 'Kaushan Script', cursive;
+}
+.caro-img
+{
+    height:55vh !important;
+    width:100%;
+}
+.mycarousel
+{
+    border-top:1px solid lightgray;
+}
+.carousel-indicators >li
+{
+  height:8px;
+  width:8px;
+  border-radius:50%;
+}
+.caro-title
+{
+    margin-bottom:80px;
+   
+}
+.p-content
+{
+    font-size:18px;
+    text-align:justify;
+}
+.temp-img1
+{
+  height:500px;
+}
+.seva-tit
+{
+    font-weight:800;
+}
+.sevice-img
+{
+    height:300px;
+}
+footer
+{
+    background-color:#061f59;
+    color:white;
+    font-size:18px;
+}
+footer p
+{
+    color:lightgray;
+}
+footer a
+{
+    text-decoration:none;
+    color:white;
+}
+footer a:hover
+{
+    text-decoration:none;
+    color:white;
+}
+.f-social-media li
+{
+float:left;
+margin-right:8px;
+}
+.f-social-media li a
+{
+padding:8px 12px;
+background-color:blue;
+border-radius:50%;
+}
+footer .copyright
+{
+    border-top:1px solid white;
+}
+

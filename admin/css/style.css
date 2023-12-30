@@ -1,0 +1,62 @@
+.mybar23,.mybar24
+{
+    cursor:pointer;
+}
+.admin-left-bar li a
+{
+color:gray;
+font-size:17px;
+}
+.admin-left-bar li:hover
+{
+    background-color:skyblue;
+    color:white;
+}
+
+.main-content
+{
+    background-color:lightgray;
+}
+.mybutton:focus
+{
+outline:none;
+border:none;
+box-shadow:none;
+}
+.mydropdown
+{
+    margin-right:90px;
+}
+.dash-icon
+{
+    font-size:30px;
+    padding:18px;
+    border-radius:50%;
+    margin-right:20px;
+}
+.dash-icon1
+{
+background-color:rgba(60,162,32,0.3);
+}
+.dash-icon2
+{
+background-color:rgba(38,205,227,0.3);
+}
+
+.dash-icon3
+{
+background-color:rgba(179,41,174,0.3);
+}
+.dash-icon4
+{
+background-color:rgba(219,207,36,0.3);
+}
+.drop-ms > .nav-link
+{
+    font-size:15px;
+    padding:5px;
+}
+.drop-head
+{
+    display:none;
+}
